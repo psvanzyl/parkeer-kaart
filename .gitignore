@@ -1,0 +1,8 @@
+data/netherlands-latest.osm.pbf
+data/denhaag.osm.pbf
+data/denhaag2.osm.pbf
+data/parking.osm.pbf
+data/parking2.osm.pbf
+data/parking.geojson
+data/dl.log
+__pycache__/
