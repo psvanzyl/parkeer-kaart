@@ -6,3 +6,9 @@ data/parking2.osm.pbf
 data/parking.geojson
 data/dl.log
 __pycache__/
+data/*.geojson
+data/*.pbf
+data/dl.log
+__pycache__/
+coolify_create.py
+/index.html
